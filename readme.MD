@@ -1,11 +1,20 @@
+#Intalling python
+Hello World ## Download pthythan pro applicaion ## from istartvalley websit # and # Run to your Computer 
+~~This has a striketthrough~~
 
-# TODO - Ask user for job amount, or supply one here
-Hello World! ##### job_amount = "Nothing"
-# TODO - Perform calculation
+This is The Code to run: 
+```
+#
+octet_one = 0
+octet_two = 0
+octet_three = 0
+octet_four = 0
 
-#### paycheck = job_amount
+# 
+available_ip_addresses = 0
 
-print("Your paycheck is")
-# TODO - Return paycheck amount
-####
+print("IP Addresses available: ")
+# 
 https://runestone.academy/runestone/assignments/doAssignment?assignment_id=60296
+
+## Thank! 
