@@ -1,8 +1,8 @@
 # Intalling python
-# Download pthythan pro applicaion ## from istartvalley websit # and # Run to your Computer 
+## Download pthythan pro applicaion ## from istartvalley websit ## and ## Run to your Computer 
 ~~This has a striketthrough~~
 
-## This is The Code to run: 
+# This is The Code to run: 
 ```
 
 octet_one = 0
